@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html> 
+<html lang="ru"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Клиника Здоровье</title> 
+    <style> 
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
+            padding: 0; 
+            background-color: #f4f4f4; 
+        } 
+        .header { 
+            background-color: #67ACCF; 
+            color: white; 
+            text-align: center; 
+            padding: 20px; 
+        } 
+        .nav { 
+            overflow: hidden; 
+            background-color: #333; 
+        } 
+        .nav a { 
+            float: left; 
+            display: block; 
+            color: white; 
+            text-align: center; 
+            padding: 14px 16px; 
+            text-decoration: none; 
+        } 
+        .nav a:hover { 
+            background-color: #ddd; 
+            color: black; 
+        } 
+        .content { 
+            padding: 10px; 
+        } 
+        .footer { 
+            background-color: #222; 
+            color: white; 
+            text-align: center; 
+            padding: 15px; 
+            position: fixed; 
+            bottom: 0; 
+            width: 100%; 
+        } 
+    </style> 
+</head> 
+<body> 
+ 
+<div class="header"> 
+    <h1>Добро пожаловать в клинику "Клиника здоровья"</h1> 
+</div> 
+ 
+<div class="nav"> 
+    <a href="#">О нас</a> 
+    <a href="#">Услуги</a> 
+    <a href="#">Анализы</a> 
+    <a href="#">Позвонить</a> 
+    <a href="#">Записаться</a> 
+</div> 
+ 
+<div class="content"> 
+    <h2>О нас</h2> 
+    <p>Наша клиника предоставляет широкий спектр медицинских услуг для взрослых и детей. Мы стремимся обеспечить высокий уровень медицинского обслуживания и индивидуальный подход к каждому пациенту.</p> 
+     
+    <h2>Наши услуги</h2> 
+    <ul> 
+        <li>Консультация</li> 
+        <li>Диагностика заболеваний</li> 
+        <li>Лабораторные исследования</li> 
+        <li>Физиотерапия</li> 
+        <li>Хирургическое лечение</li> 
+        <li>Эндоскопия</li> 
+        <li>Анализы</li> 
+        <li>Вакцинация</li> 
+        <li>Лабораторные исследования</li> 
+        <li>Отделение УЗ и лучевой диагностики</li> 
+        <li>Хирургическое лечение</li> 
+        <li>Диагностика заболеваний</li> 
+        <li>Вызов врача домой</li> 
+        <li>Колоноскопия</li> 
+        <li>Протезирование и имплантирование</li> 
+    </ul> 
+     
+    <h2>факты о нашем холдинге</h2> 
+    <p>В нашей клинике работают высококвалифицированные врачи различных специальностей, обладающие многолетним опытом работы.</p> 
+    <p>Работаем круглосуточно</p> 
+    <p>Работаем с 2009 года</p> 
+    <p>Более 120 000 пациентов в год</p> 
+    <p>Используем современные международные и отчественные практики</p> 
+ 
+ 
+    <h2>С чего начать?</h2> 
+     
+     
+    <h2>Контактная информация</h2> 
+    <address> 
+        Адрес: г. Москва, ул. Ленина, д. 25<br> 
+        Телефон: +7 (495) 123-45-67<br> 
+        Email: clinicheath@mail.ru
+    </address> 
+</div> 
+ 
+<div class="footer"> 
+    &copy; 2023 Клиника "Здоровье". Все права защищены. 
+</div> 
+ 
+</body> 
+</html>
